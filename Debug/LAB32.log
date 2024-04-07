@@ -1,0 +1,4 @@
+﻿  LAB32.cpp
+C:\Users\11\source\repos\LAB32\LAB32.cpp(13,10): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\11\source\repos\LAB32\LAB32.cpp(34,19): warning C4018:  <: несоответствие типов со знаком и без знака
+  LAB32.vcxproj -> C:\Users\11\source\repos\LAB32\Debug\LAB32.exe
